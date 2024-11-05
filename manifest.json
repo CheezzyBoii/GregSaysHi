@@ -1,0 +1,20 @@
+{
+  "short_name": "Home",
+  "name": "BBC Games",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "sites.google.com/student.dodea.edu/bbc-4-you/home",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
